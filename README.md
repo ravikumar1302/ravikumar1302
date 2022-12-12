@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravikumar1302
-- 👀 I’m interested in UI/ UX Designing
-- 🌱 I’m currently improving my DSA and will learn Web Development soon to develop my UI/ UX Projects
+- 👀 I’m interested in Product Designing/ Development
+- 🌱 I’m currently nourishing my Programming Skills and learning Web Development to develop my UI/ UX Projects
 - 💞️ I’m looking to collaborate on real world projects which can easy the life of people, make thier work more organized
 - 📫 How to reach me ravibansal130201@gmail.com
 
