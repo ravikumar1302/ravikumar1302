@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Ravi Kumar! 👋</h1>
-  <h3>A passionate Problem Solver with a focus on Product Designing and Development.</h3>
+  <h3>A passionate Problem Solver with a focus on Innovation, Product Designing, Development and Analysis.</h3>
   <a href="mailto:ravibansal130201@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
