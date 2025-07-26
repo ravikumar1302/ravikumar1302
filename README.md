@@ -10,8 +10,6 @@
 
 💞️ I'm looking to collaborate on real-world projects that can make people's lives easier and their work more organized.
 
-📫 You can reach me at ravibansal130201@gmail.com to discuss exciting opportunities or just to connect.
-
 Happy coding and Happy Designing! 😄🚀
 
 <!---
