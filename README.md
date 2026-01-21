@@ -4,7 +4,7 @@
   <a href="mailto:ravibansal130201@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-👀 I'm interested in Product Designing/Development and creating user-centered experiences.
+👀 I'm interested in Product Designing, Development and creating user-centered experiences.
 
 🌱 Currently, I'm nourishing my Programming and Analyticsl Skills and to develop my UI/UX projects.
 
