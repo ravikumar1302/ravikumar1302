@@ -6,7 +6,7 @@
 
 👀 I'm interested in Product Designing, Development and creating user-centered experiences.
 
-🌱 Currently, I'm nourishing my Programming, Analyticsl and Development Skills.
+🌱 Currently, I'm nourishing my Programming, Analytics and Development Skills.
 
 💞️ I'm looking to collaborate on real-world projects that can make people's lives easier and their work more organized.
 
