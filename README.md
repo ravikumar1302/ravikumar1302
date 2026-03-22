@@ -1,14 +1,23 @@
-<div align="center">
-  <h1>Hi, I'm Ravi Kumar! 👋</h1>
-  <h3>A passionate Problem Solver with a focus on Innovation, Product Designing, Development and Analysis.</h3>
+<div>
+  <h1>Hi, I'm Ravi Gupta 👋</h1>
+  <p>Software Engineer | Problem Solver</p>
   <a href="mailto:ravibansal130201@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-👀 I'm interested in Product Designing, Development and creating user-centered experiences.
+<br>
+👀 A passionate Problem Solver with a focus on Innovation, Product Designing, Development, Analysis and creating user-centered experiences <br><br>
 
-🌱 Currently, I'm nourishing my Programming, Analytics and Development Skills.
+* 🌐 Working on Frontend (HTML, CSS, JavaScript, React)
+* ⚙️ Learning Path: Frontend → Backend → Full Stack → Scalable Systems
+* 🧠 Practicing DSA alongside development
+* 🤝 Open to collaborating on real-world projects
 
-💞️ I'm looking to collaborate on real-world projects that can make people's lives easier and their work more organized.
+
+### 💡 Approach
+
+Consistent learning, practical implementation and building strong fundamentals.
+
+---
 
 Happy coding and Happy Designing! 😄🚀
 
