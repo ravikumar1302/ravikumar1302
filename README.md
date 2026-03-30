@@ -7,7 +7,7 @@
 <br>
 👀 A passionate Problem Solver with a focus on Innovation, Product Designing, Development, Analysis and creating user-centered experiences <br><br>
 
-* 🌐 Working on Frontend (HTML, CSS, JavaScript, React)
+* 🌐 Working on Frontend (HTML, CSS, JavaScript, React, Next.Js)
 * ⚙️ Learning Path: Frontend → Backend → Full Stack → Scalable Systems
 * 🧠 Practicing DSA alongside development
 * 🤝 Open to collaborating on real-world projects
