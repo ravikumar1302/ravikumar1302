@@ -1,6 +1,6 @@
 <div>
   <h1>Hi, I'm Ravi Gupta 👋</h1>
-  <p>Software Engineer | Problem Solver</p>
+  <p> Software Engineer | Product Engineer | Problem Solver | NIT Kurukshetra’23</p>
   <a href="mailto:ravibansal130201@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
