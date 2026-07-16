@@ -2,6 +2,7 @@
   <h1>Hi, I'm Ravi Gupta 👋</h1>
   <p> Software Engineer | Product Engineer | Problem Solver | NIT Kurukshetra’23</p>
   <a href="mailto:ravibansal130201@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://ravi-kumar-gupta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </div>
 
 <br>
